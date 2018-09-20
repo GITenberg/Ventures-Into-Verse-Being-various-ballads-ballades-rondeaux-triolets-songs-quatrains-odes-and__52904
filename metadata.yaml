@@ -1,0 +1,32 @@
+_repo: Ventures-Into-Verse-Being-various-ballads-ballades-rondeaux-triolets-songs-quatrains-odes-and__52904
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Mencken, H. L. (Henry Louis)
+    aliases:
+    - Hatteras, Owen
+    - Mencken, Henry L.
+    - Mencken, Henry Louis
+    birthdate: 1880
+    deathdate: 1956
+    gutenberg_agent_id: '578'
+    url: http://www.gutenberg.org/2009/agents/578
+    wikipedia: http://en.wikipedia.org/wiki/H._L._Mencken
+description: ''
+gutenberg_issued: '2016-08-27'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '52904'
+  lccn: '03014276'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'American poetry'
+- !lcc 'PS'
+- GITenberg
+title: "Ventures Into Verse\r\nBeing various ballads, ballades, rondeaux, triolets,\
+  \ songs, quatrains, odes and roundels, all rescued from the potters' field of old\
+  \ files and here given decent burial"
+url: http://www.gutenberg.org/ebooks/52904
